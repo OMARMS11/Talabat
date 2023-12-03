@@ -1,4 +1,4 @@
-package Talabat
+package Talabat;
 
 public class Admin extends User {
 public  void deleteResturant(){
